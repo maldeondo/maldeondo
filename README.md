@@ -18,22 +18,23 @@ I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 
 ---
 
-## 🛠️ Tech Stack & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-| Category                    | Technologies                                                      |
-| :-------------------------- | :---------------------------------------------------------------- |
-| **Languages**               | Rust, Python, Go, Bash / Shell                                    |
-| **Development Environment** | GNU/Linux, Neovim, Docker, Git                                    |
-| **Platforms**               | Codeberg (Forgejo), GitHub (legacy mirror / gradually phased out) |
+<div align="center">
+  <h2>🛠️ Tech Stack & Environment</h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</div>
 
 ---
 
-## 🔗 Profiles & Links
-
-* **Codeberg:** https://codeberg.org/maldeondo
-  My primary development platform. All active repositories and future projects are maintained here.
-
-* **GitHub:** https://github.com/maldeondo
-  Legacy profile kept for visibility, compatibility, and older repositories. Active development is gradually moving to Codeberg.
+<div align="center">
+  <h3>🔗 Contact</h3>
+  <a href="mailto:git.maldeondo.glance613@slmails.com">
+    <img src="https://img.shields.io/badge/Correo-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  </a>
+  <a href="https://bsky.app/profile/maldeondo.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+  </a>
+</div>
