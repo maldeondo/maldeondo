@@ -1,14 +1,17 @@
-# maldeondo
+<h2 align="center">maldeondo</h2>
 
-This profile serves as a central hub for my projects.
-
-I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
-
-> _New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and collaborative projects._
+<div align="center">
+  This profile serves as a central hub for my projects.
+  <br><br>
+  
+  I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
+  
+  > _New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and collaborative projects._
+</div>
 
 ---
 
-## 📁 Projects
+<h3 align="center">📁 Projects</h3>
 
 | Name | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Authors | Description |
 | :--- | :----- | :------ | :---------- |
@@ -19,7 +22,7 @@ I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 ---
 
 <div align="center">
-  <h2>🛠️ Tech Stack & Environment</h2>
+  <h3>🛠️ Tech Stack & Environment</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
