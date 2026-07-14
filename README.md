@@ -1,18 +1,20 @@
 # maldeondo
 
-This profile serves as a central record for my projects.
+This profile serves as a central hub for my projects.
 
 I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 
-New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and collaborative projects.
+> _New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and collaborative projects._
+
+---
 
 ## 📁 Projects
 
-### [dotfiles](https://codeberg.org/maldeondo/dotfiles)
-
-* **Hosted on:** Codeberg
-* **Description:** My personal development environment, including configuration files, shell scripts, editor settings, and system customization.
-* **Status:** This repository fully replaces the former GitHub version and is the canonical source for future updates.
+| Name | Status | Authors | Description |
+| :--- | :----- | :------ | :---------- |
+| [mc-modpack-builder](https://github.com/maldeondo/mc-modpack-builder) | Active | @marcosrica, @mantaimpermeable, @maldeondo | A Java-based CLI tool for Minecraft server administrators to automate and manage custom modpack builds.  |
+| [TravelMate](https://github.com/maldeondo/TravelMate) | Archived | @mantaimpermeable, @maldeondo | Part of coursework CLI travel-planning app written in Java. |
+| [dotfiles](https://codeberg.org/maldeondo/dotfiles) | Active | @maldeondo | My personal collection of dotfiles. |
 
 ---
 
