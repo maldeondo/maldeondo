@@ -12,15 +12,15 @@ I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 
 | Name | Status | Authors | Description |
 | :--- | :----- | :------ | :---------- |
-| [mc-modpack-builder](https://github.com/maldeondo/mc-modpack-builder) | Active | [@marcosrica](https://github.com/marcosrica), [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | A Java-based CLI tool for Minecraft server administrators to automate and manage custom modpack builds. |
-| [TravelMate](https://github.com/maldeondo/TravelMate) | Archived | [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | Part of coursework CLI travel-planning app written in Java. |
-| [dotfiles](https://codeberg.org/maldeondo/dotfiles) | Active | @maldeondo | My personal collection of dotfiles. |
+| [mc-modpack-builder](https://github.com/maldeondo/mc-modpack-builder) | 🟢 Active | [@marcosrica](https://github.com/marcosrica), [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | A Java-based CLI tool for Minecraft server administrators to automate and manage custom modpack builds. |
+| [TravelMate](https://github.com/maldeondo/TravelMate) | 📦 Archived | [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | Part of coursework CLI travel-planning app written in Java. |
+| [dotfiles](https://codeberg.org/maldeondo/dotfiles) | 🟢 Active | @maldeondo | My personal collection of dotfiles. |
 
 ---
 
 ## 🛠️ Tech Stack & Environment
 
-The tools and technologies I use on a daily basis.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 | Category                    | Technologies                                                      |
 | :-------------------------- | :---------------------------------------------------------------- |
