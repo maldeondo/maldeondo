@@ -10,7 +10,7 @@ I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 
 ## 📁 Projects
 
-| Name | Status | Authors | Description |
+| Name | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Authors | Description |
 | :--- | :----- | :------ | :---------- |
 | [mc-modpack-builder](https://github.com/maldeondo/mc-modpack-builder) | 🟢 Active | [@marcosrica](https://github.com/marcosrica), [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | A Java-based CLI tool for Minecraft server administrators to automate and manage custom modpack builds. |
 | [TravelMate](https://github.com/maldeondo/TravelMate) | 📦 Archived | [@mantaimpermeable](https://github.com/mantaimpermeable), @maldeondo | Part of coursework CLI travel-planning app written in Java. |
