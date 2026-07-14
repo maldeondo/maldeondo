@@ -1,10 +1,10 @@
 # maldeondo
 
-This profile serves as a central record for my personal projects.
+This profile serves as a central record for my projects.
 
-I'm currently migrating my work towards decentralized, open-source platforms. New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and archival purposes.
+I'm a Software Engineering Student at [UPM](https://upm.es) (Madrid).
 
----
+New projects and active development are primarily hosted on **Codeberg**, while **GitHub** remains available mainly for compatibility and collaborative projects.
 
 ## 📁 Projects
 
@@ -35,4 +35,3 @@ The tools and technologies I use on a daily basis.
 
 * **GitHub:** https://github.com/maldeondo
   Legacy profile kept for visibility, compatibility, and older repositories. Active development is gradually moving to Codeberg.
-
